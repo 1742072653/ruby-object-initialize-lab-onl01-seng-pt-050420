@@ -3,4 +3,4 @@ class Dod
     @breed = breed
     @name = name
   end
-  
+end
